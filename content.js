@@ -35,10 +35,10 @@ const INSTR = '<p class="instr">Please read the following situation carefully an
 /* ==================== CONSENT ==================== */
 const CONSENT_HTML = `
 <h2>Informed Consent</h2>
-<p>You are invited to participate in a research study. The purpose of this study is to evaluate
+<p>You are invited to participate in a short research study. The purpose of this study is to evaluate
 how consumers perceive information presented in a restaurant related mobile app. If you volunteer
 to participate, you will view app information and a short scenario, and then complete a survey in
-which you make ratings based on the information provided. The survey will take about 10 to 15
+which you make ratings based on the information provided. The survey will take about 10
 minutes of your time. There will not be direct benefits to you as a participant in this study.
 This study includes only minimal risks although there are risks involved in all research studies.
 You may feel uncomfortable when answering some of the questions. You may discontinue
