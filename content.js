@@ -35,22 +35,9 @@ const INSTR = '<p class="instr">Please read the following situation carefully an
 /* ==================== CONSENT ==================== */
 const CONSENT_HTML = `
 <h2>Informed Consent</h2>
-<p>You are invited to participate in a short research study. The purpose of this study is to evaluate
-how consumers perceive information presented in a restaurant related mobile app. If you volunteer
-to participate, you will view app information and a short scenario, and then complete a survey in
-which you make ratings based on the information provided. The survey will take about 10
-minutes of your time. There will not be direct benefits to you as a participant in this study.
-This study includes only minimal risks although there are risks involved in all research studies.
-You may feel uncomfortable when answering some of the questions. You may discontinue
-participation at any time. There will not be a financial cost to you to participate in this
-study. Your participation in this study is voluntary. You may refuse to participate in this study
-or in any part of this study without any consequences.</p>
-<p>All information gathered in this study will be kept completely confidential. No reference will
-be made in written or oral materials that could link you to this study. All records will be
-stored in a locked facility at Kyonggi University for 3 years after completion of the study.
-After the storage time, the information gathered will be completely discarded.</p>
-<p>If you have any questions or concerns about the study, you may contact Dr. Eun Joo Kim at
-<a href="mailto:ejkim@kyonggi.ac.kr">ejkim@kyonggi.ac.kr</a>. If you agree to participate, please
+<p>You are invited to participate in a short research study. The purpose of this study is to evaluate how consumers perceive information presented in a restaurant related mobile app. If you volunteer to participate, you will view app information and a short scenario, and then complete a survey in which you make ratings based on the information provided. The survey will take about 10 minutes of your time. About 390 people will take part in this study. There will not be direct benefits to you as a participant in this study. This study includes only minimal risks although there are risks involved in all research studies. You may feel uncomfortable when answering some of the questions. You may discontinue participation at any time. There will not be a financial cost to you to participate in this study. Compensation, including a small payment if you are screened out, is provided by Prolific as shown on the study page. Your participation in this study is voluntary. You may refuse to participate in this study or in any part of this study without any consequences.</p>
+<p>All information gathered in this study will be kept completely confidential. No personally identifiable information will be collected, and your responses will be recorded under an anonymous code. No reference will be made in written or oral materials that could link you to this study. All records will be stored in a locked facility at Kyonggi University located in South Korea for 3 years after completion of the study. After the storage time, the information gathered will be completely discarded.</p>
+<p>If you have any questions or concerns about the study, you may contact Dr. Eun Joo Kim at <a href="mailto:ejkim@kyonggi.ac.kr">ejkim@kyonggi.ac.kr</a>. For questions about your rights as a participant, you may contact the Kyonggi University Institutional Review Board at +82-31-249-1504. If you agree to participate, please
 continue with the survey. If you do not wish to participate, please decline by selecting
 &ldquo;I do not consent.&rdquo;</p>
 <p><strong>I have read the above information and agree to participate in this study. I have been
